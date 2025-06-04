@@ -71,3 +71,23 @@ titulo-site{
     text-align: center;
     padding: 24px 0;
 }
+.estudante.div{
+    text-align: center;
+    padding: 24px 0;
+ }
+
+ .estudante_todos{
+    display: flex;
+    justify-content: space-around;
+ }
+ .escola{
+    background-image: linear-gradient(#40A2E3,#7FC2EF);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+    text-align: center;
+    display: block;
+ }
+ 
+     
